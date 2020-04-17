@@ -1,5 +1,5 @@
 # BMEN4460-Final-Project-
-A GitHub repository for keeping all files and scripts needed for the final project. 
+A GitHub repository for keeping all files and scripts needed for the final project. If you notice any mistakes or issues feel free to make the commits and pull requests. Still getting a handle of this new system.
 
 
 ## Moving Forward (4/17/20)
